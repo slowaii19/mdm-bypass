@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/13bc0a1a-8b2a-45d2-b0e6-164d5d5bb049" />
+
+
 **✨ Features**
 
 🔍 Smart Volume Detection - Automatically detects system and data volumes regardless of custom names
